@@ -1,10 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Andy Kohler",
-	"description": "A back-end exercise project",
-	"keywords": ["back-end", "Node", "freecodecamp"],
-	"license": "BSD",
-	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
